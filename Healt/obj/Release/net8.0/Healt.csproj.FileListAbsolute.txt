@@ -1,0 +1,5 @@
+C:\Users\oaseo\source\repos\Healt\Healt\obj\Release\net8.0\Healt.csproj.AssemblyReference.cache
+C:\Users\oaseo\source\repos\Healt\Healt\obj\Release\net8.0\Healt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oaseo\source\repos\Healt\Healt\obj\Release\net8.0\Healt.AssemblyInfoInputs.cache
+C:\Users\oaseo\source\repos\Healt\Healt\obj\Release\net8.0\Healt.AssemblyInfo.cs
+C:\Users\oaseo\source\repos\Healt\Healt\obj\Release\net8.0\Healt.csproj.CoreCompileInputs.cache
